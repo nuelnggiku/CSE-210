@@ -1,5 +1,5 @@
 """This is the Tic-Tac-Toe game, wherein two players will take turns completing a line,
-section, or horizontal with three x's or multiple o's drawn in the rooms of a 9 grid.
+section, or horizontal with three x's or multiple o's drawn in the rooms of nine grid.
 Author: Immanuel Nggiku"""
 # Define the main function to print the lists and
 # request user inputs.
